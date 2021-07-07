@@ -1,0 +1,136 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+section{
+    display:flex;
+}
+h2{
+    font-size: 43px;
+    font-weight: 600;
+}
+.flex-container{
+    display: flex;
+   
+    margin-bottom: 20px;
+    margin-top: 50px ;
+}
+.our-message{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.our-message img{
+    width: 50%;
+    padding-left: 30%;
+
+}
+.blue-color{
+    color: rgb(7, 7, 211);
+    font-weight: bolder;
+    font-size:60px ;
+}
+.orange-color1{
+    color: orangered;
+}
+.grey-color{
+    color: rgb(114, 105, 105);
+}
+h1{
+    font-size: 40px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width{
+    width: 100%;
+}
+.top-background{
+    background-image: url(images/shapes/Group\ 8449.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 900px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 20px 60px;
+    border-radius: 20px;
+    background-image: -o-linear-gradient(orangered red);
+    font-size: x-large;
+}
+.my-background{
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 650px;
+}
+.text-align{
+    text-align-last: left;
+}
+.link-button-rafsan{
+    text-decoration: none;
+    background-color: rgb(8, 8, 128);
+    color: white;
+    padding: 20px 60px;
+    border-radius: 20px;
+    background-image: -o-linear-gradient( blue rgb(5, 90, 124));
+    font-size: x-large;
+}
+.our-recipes{
+    text-align: center;
+ padding-left: 25% ;
+ padding-right: 25%;
+}
+.tri-width{
+    width: 31%;
+    padding-left: 1.875%;
+    padding-right: 1.875%;
+}
+.tri-width img {
+    width: 100%;
+}
+.recipe-item{
+    box-shadow: 10px 10px 40px grey;
+    width: 31%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 80px;
+    
+}
+.My-Followers{
+width: 60%;
+    margin-top: 200px;
+    margin-bottom:150px;
+    margin-left: 80px;
+    padding-left:15% ;
+    padding-right: 15%;
+border-radius: 70px;
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+border: 3px solid rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    height: 25%;
+    font-size: 20px ;
+    padding-bottom: 5%;
+}
+.tri-width-followers{
+    display: flex;
+ 
+}
+.bold-font{
+    font-size: 70px;
+}
+.bigger-font{
+    font-size: 28px;
+    font-weight:500;
